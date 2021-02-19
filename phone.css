@@ -1,0 +1,143 @@
+@media (max-width: 1000px){
+    body{
+        font-family: 'Montserrat', sans-serif;
+    }
+    #title{
+        background-color: hsl(351, 100%, 65%);
+        padding: 3% 15%;
+        padding-bottom: 9%;
+    }
+    #tindong{
+        font-size: 38px;
+        font-weight: bolder;
+    }
+    #title h1{
+        font-size: 3rem;
+        font-family: 'Montserrat', sans-serif;
+        line-height: 1.5;
+        margin-top: 20%;
+       margin-left: 10%;
+    }
+    #title ul{
+        margin-right: 2%;
+        font-size: 16px;
+    }
+    #title i{
+        margin-right: 8px;
+        font-size: 20px;
+    }
+    .navbar-brand{
+        font-size: 20px;
+    }
+    #title button{
+        margin-top: 1%;
+        padding: 1.4%;
+        
+    }
+     #title .btn-dark{
+        margin-left: 10%;
+    }
+    #title img{
+        position: absolute;
+        width: 65%;
+        margin-right: 80%;
+        margin-top: 7%;
+    }
+    /*----------------------------------*/
+    /*FEATURES*/
+    /*-----------------------------------*/
+    #features{
+        text-align: center;
+        padding: 7% 15%;
+        background-color: white;
+    }
+    
+    #features h3{
+        font-size: 30px;
+        word-wrap: none;
+    }
+    #features .col-lg-3{
+        padding: 40px;
+    }
+    #features i{
+        font-size:80px;
+        color:hsl(351, 100%, 65%);
+        padding-bottom: 10px;
+    }
+    #features p{
+        font-size: 18px;
+        font-weight: 500;
+        word-spacing: 1px;
+        letter-spacing: 1px;
+        line-height: 140%;
+    }
+    /*----------------------*/
+    /*TESTIMONIALS
+    /*---------------------------*/
+    #testimonials{
+        padding: 7% 15%;
+        text-align: center;
+        background-color:hsl(351, 100%, 65%);
+        color:white;
+    }
+    #testimonials h2{
+        font-size: 40px;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 9%;
+    }
+    #testimonials img{
+        border-radius: 50%;
+        width: 6%;
+    }
+    /*------------------------------------*/
+    /*PRESS
+    /*---------------------------------*/
+    #press {
+        background-color:hsl(351, 100%, 65%);
+        text-align: center;
+    }
+    #press img{
+        width: 20%;
+        padding: 3%;
+    }
+    /*----------------------------------*/
+    /* PRICING
+    /*-----------------------------*/
+    
+    #pricing h4{
+        font-size: 50px;
+        margin: 0 50px 50px 50px;
+    }
+    #pricing p{
+        font-size: 20px;
+    }
+    #pricing{
+        text-align: center;
+        padding: 9% 15%;
+    }
+    .col-lg-3{
+        margin-left: 5%;
+    }
+    #pricing h2{
+        padding-bottom: 30px;
+    }
+    .card-body{
+        background-color: hsl(0, 17%, 98%);
+    }
+    /*----------CTA-------*/
+    #cta{
+        text-align:center;
+        background:hsl(351, 100%, 65%);
+        padding: 2% 15%;
+    }
+    #cta i{
+        padding-right: 5px;
+        font-size: 22px;
+    }
+    #cta h3{
+        padding: 20px 0px 20px 0px;
+    }
+    footer{
+        padding-top: 15px;
+    }
+}
